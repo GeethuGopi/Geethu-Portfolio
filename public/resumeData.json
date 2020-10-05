@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Geethu Gopi",
+    "occupation": "Web developer who is looking for a new position",
+    "description": "and a motivated IT student intersted in learning latest technologies",
+    "image": "Geethu Gopi.jpg",
+    "bio": "My name is Geethu, I'm a Postgraduate student from EIT Auckland.I am a person who is interested in coding and to learn new technologies and has great passion to work in IT industry of New Zealand. I feel that my strongest strengths are firstly having a passion for technology and software engineering.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "geethugopi33@gmail.com",
+    "phone": "+64 223193667",
+    "address": {
+      "street": "56 Verdale Circle",
+      "city": "Auckland",
+      "state": "New Zealand",
+      "zip": "0602"
+    },
+    "website": "https://drive.google.com/drive/u/0/my-drive",
+    "resumedownload": "https://drive.google.com/drive/u/0/my-drive",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/geethu.ag.1/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/geethu-gopi-b26445177/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/geethooo/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/GeethuGopi",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "These are some of my technical skills",
+    "education": [
+      {
+        "school": "Eastern Institute of Technology, Auckland",
+        "degree": "Postgraduate diploma in Information technology",
+        "graduated": "July 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Assyst International ",
+        "title": "Frontend Developer",
+        "years": "Sep 2016-Feb 2017",
+        "description": "Worked on CRM application."
+      },
+      {
+        "company": "Epicurean Co.",
+        "title": "GMP",
+        "years": "Dec 2020 - present",
+        "description": "Worked in food production."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "30%"
+      },
+      {
+        "name": "CSS",
+        "level": "50%"
+      },
+      
+      
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "50%"
+      },
+      {
+        "name": "javascript",
+        "level": "50%"
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "CRM",
+        "category": "application which helps to maintain a sustain relation with customers (HTML5, Javascript, JQuery, NodeJS,MySQl)",
+        "image": "crm.png",
+        "url": "https://github.com/GeethuGopi/CRM"
+      },
+      {
+        "title": " A mini T-Rex game similar to chrome's Dinosaur game",
+        "category": " (HTML5, JS, CSS,)",
+        "image": "dinosaur game.jpg",
+        "url": "https://github.com/GeethuGopi/T-Rex-game"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Follow your heart, listen to your inner voice, stop caring about what others think.",
+        "user": "Roy T.Bennet"
+      }
+      
+    ]
+  }
+}
